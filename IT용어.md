@@ -1,6 +1,6 @@
 # IT용어 정리
 > '개발자가 되기 위해 꼭 알아야 하는 IT용어' 책을 보면서 정리   
-![book1](https://user-images.githubusercontent.com/84561497/224528081-01ad6cff-e414-47a3-a6a4-bf59a5d43969.png)
+<img src="../images/book1.png>
 > 
 > 궁금한 IT용어 정리를 찾아보면서 이해할 수 있게 정리
 
