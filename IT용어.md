@@ -1,7 +1,7 @@
 # IT용어 정리
 > '개발자가 되기 위해 꼭 알아야 하는 IT용어' 책을 보면서 정리   
 
-<img src="./images/book1.png" width="50">
+<img src="./images/book1.png" width="200">
           
 > 궁금한 IT용어 정리를 찾아보면서 이해할 수 있게 정리
 
