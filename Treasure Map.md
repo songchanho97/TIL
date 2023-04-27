@@ -1,4 +1,4 @@
-``python
+```python
 
 row1 = ["⬜️","⬜️","⬜️"]  
 row2 = ["⬜️","⬜️","⬜️"]  
@@ -18,4 +18,5 @@ r_row[col-1] = 'X'
 #Write your code above this row 👆
 
 
-print(f"{row1}\n{row2}\n{row3}")``
+print(f"{row1}\n{row2}\n{row3}")
+```
