@@ -1,3 +1,5 @@
+# 유데미 Python 부트캠프 : 100개의 프로젝트로 Python 개발 완전 정복
+
 ```python
 
 row1 = ["⬜️","⬜️","⬜️"]  
@@ -11,8 +13,8 @@ position = input("Where do you want to put the treasure? ")
  
 col = int(position[0])  
 row = int(position[1])  
-r_row = map[row-1]  
-r_row[col-1] = 'X'  
+selected_row = map[row-1]  
+selected_row[col-1] = 'X'  
 
 
 #Write your code above this row 👆
