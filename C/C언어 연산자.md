@@ -15,9 +15,9 @@ int main(void) {
 };
 ```
 실행결과 
-Result : 5, 16, 1
+Result : 5, 16, 1  
 
-
+---
 ```c
 #include <stdio.h>
 
